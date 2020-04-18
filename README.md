@@ -1,0 +1,2 @@
+# resourcepack
+server resource packs
